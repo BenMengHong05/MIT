@@ -318,6 +318,7 @@ div .menubar button{
     cursor: pointer;
 }
 
+
 @media screen and (max-width:2500px){
     .home-footer{
         display: none;
@@ -327,8 +328,13 @@ div .menubar button{
     .home-footer{
         display: block;
     }
-    .footer-logo-mit img{
+    .footer-logo{
         display: none;
+    }
+}
+@media screen and (max-width:360px){
+    .screen-360{
+        font-size: .9rem;
     }
 }
 /*-----------------------------------------------Enducation ----------------------------------------------*/
@@ -424,10 +430,9 @@ li{
     background-color: red;
 }
 .ul-hover-4{
-    border-bottom: 2px solid red;
+    border-bottom: 3px solid red;
     cursor:pointer;
 }
 .ul-hover-4:hover{
     color: red;
-
 }

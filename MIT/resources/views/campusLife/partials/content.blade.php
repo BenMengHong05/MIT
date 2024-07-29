@@ -13,26 +13,25 @@
         <div class="container mt-5">
             <div class="row ">
                 <h1>
-                    MIT’s collaborative, hands-on, curiosity-driven ethos extends across our campus — and beyond. On the
+                    MIT’s collaborative, hands-on, curiosity-driven ethos extends <span class="ul-hover-4">across our campus — and</span> beyond. On the
                     stage or field, in makerspaces and living communities, MIT is where brilliant, committed, creative
                     people come together to learn, work, live, and play. All the elements are here to cultivate
-                    students’ personal and intellectual growth, fostering the whole student.
+                    <span class="ul-hover-4">students’ personal</span> and intellectual growth, fostering the whole student.
                 </h1>
             </div>
         </div>
         <div class="container mt-5">
             <div class="row mt-2">
                 <div class="col-lg-6 education-text">
-                    <h5>Diverse in every sense of the word, our community is a playground for opportunity in the heart
+                    <h5>Diverse in every sense of the word, our <span class="ul-hover-4">community</span> is a playground for opportunity in the heart
                         of a global innovation hub. Just 364.4 smoots (plus or minus one ear) across the Charles River
-                        from Boston — one of the best cities in the world for students — our 168-acre riverside campus
-                        brims with daring artists, talented athletes, and a club for just about anything.
+                        from Boston — one of the best cities in the world for students — our 168-acre riverside <span class="ul-hover-4">campus brims</span>
+                        with daring artists, talented athletes, and a club for just about anything.
                     </h5>
                 </div>
-
-                <div class="col-lg-6 education-img">
+                <div class="col-lg-6 education-img" style="min-height: 40vh">
                     <div class="ed-img">
-                        <video width="400" controls>
+                        <video controls style="min-height: auto;max-width: 100%">
                             <source src="{{ asset('images/campus-life-1806.mp4') }}" type="video/mp4">
                         </video>
                     </div>
@@ -45,12 +44,12 @@
         <div class="row">
             <div class="col-lg-6  ">
                 <h5>
-                    With 500+ student organizations (chocolate science, anyone?), nearly 40 Greek-letter and independent
+                    With 500+ student organizations <span class="ul-hover-4">(chocolate science, anyone?),</span> nearly 40 Greek-letter and independent
                     living groups, chaplains for more than 20 faith traditions, and a commitment to diversity and
                     inclusion, student life at MIT offers a welcoming place for everyone. To complement their academics
                     and research, students choose their own extracurricular adventures, from a spectacular array of ways
                     to participate in music, dance, and sports to dozens of groups that savor and celebrate cultures
-                    from around the world. To help students navigate challenges, MIT offers a strong support network
+                    from around the world. To help <span class="ul-hover-4">students navigate</span>challenges, MIT offers a strong support network
                     (bolstered by occasional visits from puppies, pigs, and pygmy goats).
                 </h5>
                 <div class="campuslife-menu mt-4">
@@ -77,11 +76,11 @@
         <div class="row mt-2">
             <div class="col-lg-6">
                 <h5>
-                    Our residence halls are part entertainment center, part brain trust, part support system,
+                    Our residence halls are part entertainment center, part brain trust, part <span class="ul-hover-4">support system</span>,
                     and wholly central to students’ MIT experience. Campus residences have distinct
                     personalities and traditions (like a cross-campus water fight or the Baker House piano
                     drop), which contribute as much to our students’ growth as their academic experiences do.
-                    Dining at MIT is about choice and flexibility, with six dining halls, nearly a dozen retail
+                    Dining at MIT is about choice and <span class="ul-hover-4">flexibility</span>, with six dining halls, nearly a dozen retail
                     eateries, vending hubs, and a variety of meal plan options.
                 </h5>
                 <div class="campuslife-menu mt-4">
@@ -286,7 +285,7 @@
                 </div>
                 <div class="col-lg-6">
                     <figure>
-                        <img style="min-height: 28.8vh;object-fit:cover" src="{{asset('images/CampusLife5.jpeg')}}" class="img-fluid" alt="">
+                        <img style="min-height: 28.9vh;object-fit:cover" src="{{asset('images/CampusLife5.jpeg')}}" class="img-fluid" alt="">
                     </figure>
                 </div>
             </div>

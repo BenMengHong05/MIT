@@ -13,9 +13,9 @@
         <div class="container mt-5">
             <div class="row ">
                 <h1>
-                    At MIT, pushing the boundaries of knowledge and possibility is our joyful obsession, and we
+                    At MIT, pushing the boundaries of knowledge and <span class="ul-hover-4">possibility is our joyful</span> obsession, and we
                     celebrate fundamental discoveries and practical applications alike. As educators, we also value
-                    research as a potent form of learning by doing.
+                    <span class="ul-hover-4">research</span> as a potent form of learning by doing.
                 </h1>
             </div>
         </div>
@@ -23,16 +23,16 @@
             <div class="row mt-2">
                 <div class="col-lg-6 education-text">
                     <h5>Research flourishes in our 30 departments across five schools and one college, as well as in
-                        dozens of centers, labs, and programs that convene experts across disciplines to explore new
+                        dozens of centers, labs, and <span class="ul-hover-4">programs that</span> convene experts across disciplines to explore new
                         intellectual frontiers and solve important societal problems. Our on-campus research
-                        capabilities are enhanced through the work of MIT Lincoln Laboratory, the Woods Hole
-                        Oceanographic Institution, active research relationships with industry, and a wide range of
+                        <span class="ul-hover-4">capabilities</span> are enhanced through the work of MIT Lincoln Laboratory, the Woods Hole
+                        Oceanographic Institution,active researchrelationships with industry, and a wide range of
                         global collaborations.
                     </h5>
                 </div>
-                <div class="col-lg-6 education-img">
+                <div class="col-lg-6 education-img" style="min-height: 40vh">
                     <div class="ed-img">
-                        <video width="400" controls>
+                        <video controls style="min-height: auto;max-width: 100%">
                             <source src="{{ asset('images/research-2_0.mp4') }}" class="figure-img img-fluid"  type="video/mp4">
                         </video>
                     </div>
@@ -41,17 +41,17 @@
         </div>
     </div>
     <div class="container mt-5" style="border-top: 1px solid rgb(82, 78, 78);min-height: 50vh">
-        <h1 class="mt-4">Centers, Labs & Programs</h1>
+        <h1 class="mt-4 ">Centers, Labs & Programs</h1>
         <div class="row mt-2">
             <div class="col-lg-6  align-items-center mt-5 ">
                 <h5>
-                    MIT continually develops organizations and partnerships that foster interdisciplinary work. Listed
+                    MIT continually develops organizations and partnerships that foster <span class="ul-hover-4">interdisciplinary work</span>. Listed
                     here are just some of the MIT labs, centers, and programs where groundbreaking research is happening
                     every day.
                 </h5>
                 <div class="row mt-5 ms-0" style="width: 40vh">
-                    <div class="education-shcool p-3 d-flex align-items-center justify-content-center">
-                        <h4 style="font-size: 1rem">View Centers, Labs & Programs</h4>
+                    <div class=" d-flex align-items-center justify-content-center">
+                        <button style="width: 50vh;" class="p-3 education-shcool ">View Centers, Labs & Programs</button>
                     </div>
                 </div>
             </div>
@@ -69,12 +69,12 @@
         <div class="row mt-2">
             <div class="col-lg-6 mt-5">
                 <h5>
-                    MIT researchers collaborate with many leading local, national, and international organizations to
+                    MIT researchers collaborate with many leading local, national, and international <span class="ul-hover-4">organizations</span> to
                     further drive exploration.
                 </h5>
                 <div class="row mt-5 ms-0" style="width: 40vh">
-                    <div class="education-shcool p-3 d-flex align-items-center justify-content-center">
-                        <h4 style="font-size: 1rem">View Collaborating Institutions</h4>
+                    <div class="d-flex align-items-center justify-content-center">
+                        <button style="width: 50vh;" class="p-3  education-shcool ">View Collaborating Institutions</button>
                     </div>
                 </div>
             </div>

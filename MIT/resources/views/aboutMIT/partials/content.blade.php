@@ -41,10 +41,9 @@
                         </ul>
                     </div>
                 </div>
-
-                <div class="col-lg-6 education-img">
+                <div class="col-lg-6 education-img" style="min-height: 40vh">
                     <div class="ed-img">
-                        <video width="450" controls>
+                        <video controls style="min-height: auto;max-width: 100%">
                             <source style="height: auto; object-fit:cover;" src="{{ asset('images/about-MIT-5 (1).mp4') }}" type="video/mp4" >
                         </video>
                     </div>

@@ -23,10 +23,9 @@
                     <h5>MIT’s nearly 147,000 alumni represent one of the most talented, innovative, and networked communities on the planet. Many remain deeply involved in the life of the Institute. They volunteer, serve on boards, head up regional alumni clubs, and generously support MIT’s students, faculty, and staff. As individuals, their contributions are extraordinary. As a community, their impact is infinite.
                     </h5>
                 </div>
-
-                <div class="col-lg-6 education-img">
+                <div class="col-lg-6 education-img" style="min-height: 40vh">
                     <div class="ed-img">
-                        <video width="400" controls>
+                        <video controls style="min-height: auto;max-width: 100%">
                             <source src="{{ asset('images/alumnitamplate.mp4') }}" type="video/mp4">
                         </video>
                     </div>

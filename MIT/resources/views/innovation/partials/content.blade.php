@@ -14,27 +14,27 @@
             <div class="row ">
                 <h1>
                     MIT people want to know how things work — and are inspired to make <br>
-                    them work better. Our “mind andhand” philosophy spurs real-world <br>
+                    them work better. Our <span class="ul-hover-4">“mind andhand”</span> philosophy spurs real-world <br>
                     engagement,and thanks to MIT’s entrepreneurial culture,  <br> GreaterBoston’s
-                    innovation ecosystembrims with companies spun out from MIT.
+                    innovation <span class="ul-hover-4">ecosystembrims</span> with companies spun out from MIT.
                 </h1>
             </div>
         </div>
         <div class="container mt-5">
             <div class="row mt-2">
                 <div class="col-lg-6 education-text">
-                    <h5>MIT’s student and faculty innovators and entrepreneurs can tap a remarkable suite of resources —
+                    <h5>MIT’s <span class="ul-hover-4">student and faculty</span> innovators and entrepreneurs can tap a remarkable suite of resources —
                         from mentors and funding to student organizations and events ­— as they learn to drive their
-                        ideas to market. From faculty start-ups to global corporations, businesses and nonprofits of
+                        ideas to market. From faculty <span class="ul-hover-4">start-ups to global</span> corporations, businesses and nonprofits of
                         every size can find satisfying ways to work with MIT. A range of professional groups stand ready
                         to help, from the Office of Innovation and Martin Trust Center for MIT Entrepreneurship to the
                         distinctive Industrial Liaison Program.
                     </h5>
                 </div>
-                <div class="col-lg-6 education-img">
+                <div class="col-lg-6 education-img" style="min-height: 40vh">
                     <div class="ed-img">
-                        <video width="400" controls>
-                            <source src="{{ asset('images/innovation-2.mp4') }}" type="video/mp4">
+                        <video controls style="min-height: auto;max-width: 100%">
+                            <source src="{{ asset('images/innovation-2.mp4') }}" class="figure-img img-fluid"  type="video/mp4">
                         </video>
                     </div>
                 </div>
@@ -44,12 +44,12 @@
     <div class="container mt-5" style="border-top: 1px solid rgb(82, 78, 78);min-height: 50vh">
         <h1 class="mt-4">Ecosystem</h1>
         <div class="row mt-2">
-            <div class="col-lg-6  align-items-center ">
+            <div class="col-lg-6  align-items-center mt-2">
                 <h5>
                     MIT’s innovation ecosystem comprises students, faculty, postdocs, and alumni taking part in tailored
-                    classes, mentorship, guidance, and activities offered by over 80 innovation and entrepreneurship
+                    classes, <span class="ul-hover-4">mentorship</span>, guidance, and activities offered by over 80 innovation and entrepreneurship
                     (I&E) organizations across campus. Located in the heart of “the most innovative square mile on the
-                    planet,” MIT InnovationHQ provides a home for MIT’s thriving community of innovators and
+                    planet,” <span class="ul-hover-4">MIT InnovationHQ </span>provides a home for MIT’s thriving community of innovators and
                     entrepreneurs, supporting all who pursue ideas with a passion for world-changing impact. From this
                     hub of I&E activity, the ecosystem reaches outward into our regional innovation ecosystem, in part
                     through an ambitious, decade-long redevelopment initiative.
@@ -77,12 +77,12 @@
         <div class="row mt-2">
             <div class="col-lg-6">
                 <h5>
-                    Innovations from MIT often address the problems humanity most needs to solve, including sustainable
+                    Innovations from MIT often address the problems humanity most needs to solve, <span class="ul-hover-4">including</span> sustainable
                     energy, urban resiliency, fresh water, food for all, cancer, Alzheimer’s, and infectious disease. By
                     helping MIT inventors connect with mentors, collaborators, networks, and funding, we help them
                     translate new science into transformative innovation. MIT entrepreneurs make a sizable global
                     impact: The active companies formed by living MIT alumni produce estimated annual revenues on par
-                    with the gross domestic product of the 10th-largest economy in the world.
+                    with the gross domestic product of the <span class="ul-hover-4">10th-largest economy</span> in the world.
                 </h5>
             </div>
             <div class="col-lg-6 ">

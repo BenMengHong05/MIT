@@ -35,10 +35,10 @@
                         cultivate personal growth, build community, and prioritize wellbeing.
                     </h5>
                 </div>
-                <div class="col-lg-6 education-img">
+                <div class="col-lg-6 education-img" style="min-height: 40vh">
                     <div class="ed-img">
-                        <video width="400" controls>
-                            <source src="{{ asset('images/education-1_0.mp4') }}" type="video/mp4">
+                        <video controls style="min-height: auto;max-width: 100%">
+                            <source src="{{ asset('images/education-1_0.mp4') }}" type="video/mp4" style="img-fluid;">
                         </video>
                     </div>
                 </div>
